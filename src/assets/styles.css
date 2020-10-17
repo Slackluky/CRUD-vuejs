@@ -1,0 +1,10 @@
+
+ .app{
+    height: 100vh;
+  }
+input{
+    font-size: 11pt;
+    border-radius: 75px;
+    background-color: #cacaca77;
+    border: none;
+  }
